@@ -1,0 +1,5 @@
+{
+  "name": "Sahayak Agent Flow Visualizer",
+  "description": "A web application that visualizes the conversational flow of an AI agent from a JSON configuration. It provides a clear, node-based graph representation of the agent's logic, making it easy to understand and analyze.",
+  "requestFramePermissions": []
+}
